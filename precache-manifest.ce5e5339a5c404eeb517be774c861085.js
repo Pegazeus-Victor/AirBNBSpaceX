@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a209b0d8dde31b41aa09e877a41a4e26",
+    "revision": "be3c7e39f65db4dbcb27ea49d0d3fe06",
     "url": "/AirBNBSpaceX/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AirBNBSpaceX/static/js/2.7c64cff7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa15b2ee4c4eea48eb52",
-    "url": "/AirBNBSpaceX/static/js/main.f4ab7d83.chunk.js"
+    "revision": "d067cf76a0cea5465c16",
+    "url": "/AirBNBSpaceX/static/js/main.1274735c.chunk.js"
   },
   {
     "revision": "3798fe0d3ab7946aef77",

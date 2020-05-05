@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/AirBNBSpaceX/static/js/main.f4ab7d83.chunk.js",
-    "main.js.map": "/AirBNBSpaceX/static/js/main.f4ab7d83.chunk.js.map",
+    "main.js": "/AirBNBSpaceX/static/js/main.1274735c.chunk.js",
+    "main.js.map": "/AirBNBSpaceX/static/js/main.1274735c.chunk.js.map",
     "runtime-main.js": "/AirBNBSpaceX/static/js/runtime-main.ca56d409.js",
     "runtime-main.js.map": "/AirBNBSpaceX/static/js/runtime-main.ca56d409.js.map",
     "static/js/2.7c64cff7.chunk.js": "/AirBNBSpaceX/static/js/2.7c64cff7.chunk.js",
     "static/js/2.7c64cff7.chunk.js.map": "/AirBNBSpaceX/static/js/2.7c64cff7.chunk.js.map",
     "index.html": "/AirBNBSpaceX/index.html",
-    "precache-manifest.6506fd195ad2eeb555df9ee82fd55ebd.js": "/AirBNBSpaceX/precache-manifest.6506fd195ad2eeb555df9ee82fd55ebd.js",
+    "precache-manifest.ce5e5339a5c404eeb517be774c861085.js": "/AirBNBSpaceX/precache-manifest.ce5e5339a5c404eeb517be774c861085.js",
     "service-worker.js": "/AirBNBSpaceX/service-worker.js",
     "static/js/2.7c64cff7.chunk.js.LICENSE.txt": "/AirBNBSpaceX/static/js/2.7c64cff7.chunk.js.LICENSE.txt",
     "static/media/cart.07d5ba4a.svg": "/AirBNBSpaceX/static/media/cart.07d5ba4a.svg",
@@ -28,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime-main.ca56d409.js",
     "static/js/2.7c64cff7.chunk.js",
-    "static/js/main.f4ab7d83.chunk.js"
+    "static/js/main.1274735c.chunk.js"
   ]
 }
